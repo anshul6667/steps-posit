@@ -32,6 +32,7 @@ Before you begin, ensure you have the following:
 
     **Further Reading:**
     For a comprehensive understanding, refer to the [Posit (RStudio) Connect Developer's Guide](https://gmi-pe.atlassian.net/wiki/spaces/CE/pages/267878528/Posit+RStudio+Connect+Developer+s+Guide).
+    
 **II. GitHub Repository Guidelines**
 
 1.  **Repository:** All applications are deployed from `https://github.com/gmi-common/sc-da-dna-gcp/`.
