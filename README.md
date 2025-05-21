@@ -83,4 +83,4 @@ Before you begin, ensure you have the following:
 
 **IV. Automated Deployment**
 
-Pushing changes to the `posit-develop` branch on the remote GitHub repository (`gmi-common/sc-da-dna-gcp`) automatically triggers GitHub Actions, which will deploy your application to the development environment on Posit. You can find your app on the link https://rsconnect-cloud-dev.genmills.com/<vanity_url_given_app_config>
+Pushing changes to the `posit-develop` branch on the remote GitHub repository (`gmi-common/sc-da-dna-gcp`) automatically triggers GitHub Actions, which will deploy your application to the development environment on Posit. You can find your app on the link https://rsconnect-cloud-dev.genmills.com/{vanity_url_given_app_config}
